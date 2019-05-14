@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://qph.fs.quoracdn.net/main-qimg-325b5afe848decbb41810caae44f93a6);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border-radius: 4px;
+    background-color:#D2CFC6;
+    display: inline-block;
+    padding: 3px 28px 3px 28px;
+    border-top: solid 1px;
+    border-left: solid 1px;
+    border-bottom: outset 1px;
+    border-right: outset 1px;
+    margin: 8% 30%;
+    max-width: 100px;
+}
